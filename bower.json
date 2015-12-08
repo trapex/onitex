@@ -1,0 +1,48 @@
+{
+  "name": "jquery.onitex",
+  "version": "1.0.0",
+  "main": [
+    "jquery.onitexrotozoom.min.js"
+  ],
+  "ignore": [
+    "README*",
+    "LICENSE*",
+    "**/*.sass",
+    "**/*.coffee",
+    "**/sample.*",
+    "**/rainbow.js",
+    "**/rainbow.css",
+    "**/jquery.js",
+    "**/jquery.css",
+    "samples",
+    "spec",
+    "bourbon",
+    "neat",
+    "packages",
+    "images",
+    "Cakefile*",
+    "Rakefile*",
+    "Gemfile*",
+    ".git*",
+    ".travis*",
+    "*bower.json",
+    "*jquery.json",
+    "index*",
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "latest"
+  },
+  "authors": [
+    "Tatyana Ivanova <tatyana.ivanova@saltpepper.ru>"
+  ],
+  "description": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true
+}
